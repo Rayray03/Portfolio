@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Personal Blog Post (CRUD Functionalities)",
+    title: "Personal Blog Page (CRUD Functionalities)",
     description:
       "A web app with basic CRUD (Create Read Update Delete) functionalities. Built with React and Sanity.io. Optimized for mobile responsiveness wih Tailwind and Bootstrap.",
     image: "/images/1.png",
