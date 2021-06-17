@@ -33,7 +33,7 @@ export const projects = [
   {
     title: "Object Avoidance System",
     description:
-      "Using different electronical devices, arduino and 3D printed compoenents, built and developed a robot with object avoidence function.",
+      "Using different electronical devices, arduino and 3D printed components, built and developed a robot with object avoidence function.",
     image: "/images/4.jpg",
     tags: ["Arduino", "C", "NX9", "Solidworks"],
     source:
