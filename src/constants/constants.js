@@ -23,7 +23,7 @@ export const projects = [
   {
     title: "Laravel Content Management System",
     description:
-      "This is a CMS system built with the Laravel Framework. Video demo under the link. Source code on my Github.",
+      "This is a CMS (content management system) built with the Laravel Framework. Video demo under the link. Source code on my Github.",
     image: "/images/3.jpg",
     tags: ["Laravel", "PHP", "SQL"],
     source: "https://github.com/Rayray03/Simple-Blog-CMS-Using-Laravel-5.0",
